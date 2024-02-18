@@ -6,9 +6,11 @@ manifest:
       url-base: https://github.com/urob
     - name: infused-kim
       url-base: https://github.com/infused-kim
+    - name: Solodros
+      url-base: https://github.com/Solodros
   projects:
     - name: zmk
-      remote: solodros
+      remote: Solodros
       revision: PS2
       import: app/west.yml
   self:
